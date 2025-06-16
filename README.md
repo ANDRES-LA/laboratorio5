@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Laboratorio 5 - IE0117: Programación Bajo Plataformas Abiertas
 
 ##Descripción del laboratorio
@@ -80,7 +79,7 @@ All heap blocks were freed -- no leaks are possible
 
 Este es el enlace público al repositorio en GitHub donde se aloja el código:
 
-> [https://github.com/TU_USUARIO/laboratorio5](https://github.com/ANDRES-LA/laboratorio5)
+> (https://github.com/ANDRES-LA/laboratorio5)
 
 
 
