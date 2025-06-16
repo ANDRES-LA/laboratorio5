@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Laboratorio 5 - IE0117: Programación Bajo Plataformas Abiertas
 
 ##Descripción del laboratorio
@@ -81,5 +82,6 @@ Este es el enlace público al repositorio en GitHub donde se aloja el código:
 
 > (https://github.com/ANDRES-LA/laboratorio5)
 
-
+Este proyecto fue desarrollado por José Andrés, estudiante de IE0117.
+Nota: Esta implementación fue realizada siguiendo el flujo GitFlow con al menos 3 commits en la rama feature/arreglo.
 

@@ -17,4 +17,5 @@ int main() {
     liberar_arreglo(arr);
     return 0;
 }
+printf("Fin del programa.\n");
 

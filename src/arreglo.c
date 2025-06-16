@@ -45,4 +45,4 @@ void liberar_arreglo(Arreglo *arr) {
     free(arr->datos);
     free(arr);
 }
-
+printf("Cantidad de elementos: %d\n", arr->cantidad);
